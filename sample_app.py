@@ -2,27 +2,45 @@
 
 from bottle import route, template, redirect, static_file, error, run
 
-
-@route('/home')
-def show_home():
-    return template('home')
-
-
 @route('/')
 def handle_root_url():
     redirect('/home')
 
+@route('/home')
+def show_home():
+    return template('index')
+
+
+@route('/about')
+def about():
+    return template('about')
+
+@route('/agent')
+def show_home():
+    return template('propertyagent')
+
+@route('/list')
+def show_home():
+    return template('propertylist')
+
+@route('/type')
+def show_home():
+    return template('propertytype')
+
+@route('/testimonial')
+def show_home():
+    return template('testimonial')
 
 @route('/profile')
 def make_request():
     # make an API request here
-    profile_data = {'name': 'Marcel Hellkamp', 'role': 'Developer'}
-    return template('details', data=profile_data)
+    
+    return template('contact')
 
 
-@route('/css/<filename>')
+@route('/static/<filename>')
 def send_css(filename):
-    return static_file(filename, root='static/css')
+    return static_file(filename, root='./static')
 
 
 @error(404)
