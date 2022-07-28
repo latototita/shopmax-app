@@ -15,23 +15,28 @@ def show_home():
 def about():
     return template('about')
 
-@route('/agent')
+@route('/single')
 def show_home():
-    return template('propertyagent')
+    return template('single')
 
-@route('/list')
+@route('/shop')
 def show_home():
-    return template('propertylist')
+    return template('shop')
 
-@route('/type')
+@route('/cart')
 def show_home():
-    return template('propertytype')
+    return template('cart')
 
-@route('/testimonial')
+@route('/thanks')
 def show_home():
-    return template('testimonial')
+    return template('thanks')
 
-@route('/profile')
+@route('/checkout')
+def show_home():
+    return template('checkout')
+
+
+@route('/contact')
 def make_request():
     # make an API request here
     
