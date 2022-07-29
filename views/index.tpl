@@ -79,14 +79,6 @@
             <h2 class="item-title"><a href="#">Denim Jacket</a></h2>
             <strong class="item-price"><del>$46.00</del> $28.00</strong>
 
-            <div class="star-rating">
-              <span class="icon-star2 text-warning"></span>
-              <span class="icon-star2 text-warning"></span>
-              <span class="icon-star2 text-warning"></span>
-              <span class="icon-star2 text-warning"></span>
-              <span class="icon-star2 text-warning"></span>
-            </div>
-
           </div>
           <div class="col-lg-4 col-md-6 item-entry mb-4">
             <a href="#" class="product-item md-height bg-gray d-block">
@@ -166,14 +158,6 @@
                   </a>
                   <h2 class="item-title"><a href="#">Denim Jacket</a></h2>
                   <strong class="item-price"><del>$46.00</del> $28.00</strong>
-
-                  <div class="star-rating">
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                  </div>
 
                 </div>
               </div>
