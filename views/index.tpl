@@ -125,13 +125,7 @@
                   </a>
                   <h2 class="item-title"><a href="#">Smooth Cloth</a></h2>
                   <strong class="item-price"><del>$46.00</del> $28.00</strong>
-                  <div class="star-rating">
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                  </div>
+                  
                 </div>
               </div>
               <div class="item">
@@ -142,13 +136,7 @@
                   <h2 class="item-title"><a href="#">Blue Shoe High Heels</a></h2>
                   <strong class="item-price"><del>$46.00</del> $28.00</strong>
 
-                  <div class="star-rating">
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                  </div>
+                  
                 </div>
               </div>
               <div class="item">
@@ -168,13 +156,7 @@
                   </a>
                   <h2 class="item-title"><a href="#">Leather Green Bag</a></h2>
                   <strong class="item-price"><del>$46.00</del> $28.00</strong>
-                  <div class="star-rating">
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                  </div>
+                  
                 </div>
               </div>
               <div class="item">
@@ -185,12 +167,7 @@
                   <h2 class="item-title"><a href="#">Yellow Jacket</a></h2>
                   <strong class="item-price">$58.00</strong>
                   <div class="star-rating">
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                    <span class="icon-star2 text-warning"></span>
-                  </div>
+                  
                 </div>
               </div>
 
